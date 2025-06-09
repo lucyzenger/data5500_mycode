@@ -1,0 +1,21 @@
+[2025-06-09T05:16:26.494Z] info  code-server 4.99.4 47d6d3ada5aadef6d221f3d612401eb3dad9299e
+[2025-06-09T05:16:26.514Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-06-09T05:16:26.595Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-06-09T05:16:26.596Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-06-09T05:16:26.596Z] info    - Authentication is enabled
+[2025-06-09T05:16:26.596Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-06-09T05:16:26.596Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-06-09T05:16:26.596Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[05:16:28] 
+
+
+
+
+[05:16:28] Extension host agent started.
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+[05:16:32] [<unknown>][b022ffe6][ManagementConnection] New connection established.
+[05:16:34] [<unknown>][3b169224][ExtensionHostConnection] New connection established.
+[05:16:35] [<unknown>][3b169224][ExtensionHostConnection] <22231> Launched Extension Host Process.
+[05:34:42] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[05:34:42] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
